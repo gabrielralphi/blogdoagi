@@ -1,0 +1,9 @@
+{
+    "chromeWebSecurity": false,
+    "chromeExecutable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "viewportWidth": 1360,
+    "viewportHeight": 790,
+    "defaultCommandTimeout": 60000,
+    "testFiles": "**/*.feature",
+    "baseUrl": "http://blogdoagi.com.br/"
+}
